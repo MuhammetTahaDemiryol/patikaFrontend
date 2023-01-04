@@ -1,0 +1,59 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    margin-top: 10px;
+}
+
+.logo {
+    height: 113px;
+    width: 350px;
+    background-color: rgb(167, 174, 166);
+    margin: auto;
+}
+
+#slogan {
+    text-align: center;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+
+.ortakutu {
+    width: 1250px;
+    height: 67px;
+    background-color: rgb(239, 232, 232);
+    margin:auto;   
+}   
+
+
+.linkkutu{
+    width: 1250px;
+    height: 70px;
+    margin: auto;
+    margin-top: 2px;
+}
+
+
+.kutu { 
+    width: 414px;
+    height: 67px;
+    text-align: center;  
+    margin-left: 2px;
+    float: left;
+}
+
+
+.k1 {background-color: #7EE5DA;}
+.k2 {background-color: #70CCC2;font-size: small;}
+.k3 {background-color: #62B3AA;}
+
+.arama-cubuk {
+    height: 16px;
+    width: 280px;
+    display: block; 
+    margin: auto;
+    margin-bottom: 2px;
+}
+
+.tus1 {margin-left:41%;}
+
+.cpr{text-align: center; font-size: small;}
