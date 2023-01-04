@@ -5,5 +5,5 @@ This is a tutorial for Html and Css Design.
 
 ## Screenshots
 
-![App Screenshot](/Studies/css/odev3/assets/Screenshot.png)
+![App Screenshot](assets/Screenshot.png)
 
